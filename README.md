@@ -63,10 +63,6 @@ I enjoy learning new technologies and continuously improving my development skil
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=D6VAlex&theme=tokyonight&hide_border=true" width="75%"/>
-
-<br/><br/>
-
 <strong>THANKS FOR VISITING</strong>
 
 <strong>Keep learning. Keep building. Keep improving.</strong>
