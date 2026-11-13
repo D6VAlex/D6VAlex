@@ -12,7 +12,7 @@ Building things, exploring technology, and learning something new every day.
 <img src="https://img.shields.io/badge/DISCORD-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-✦ ABOUT ME ✦
+< ABOUT ME >
 
 I’m D6VAlex.
 
@@ -22,9 +22,9 @@ I enjoy learning new technologies and continuously improving my development skil
 
 <br/>
 
-✦ TECHNOLOGIES & LANGUAGES ✦
+< TECHNOLOGIES & LANGUAGES >
 
-Programming Languages
+< Programming Languages >
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -36,23 +36,19 @@ Programming Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 
-Tools & Technologies
+< Tools & Technologies >
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-✦ GITHUB STATISTICS ✦
+< GITHUB STATISTICS >
 
 <img src="https://github-readme-stats.vercel.app/api?username=D6VAlex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D6VAlex&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=D6VAlex&theme=tokyonight&hide_border=true" width="75%"/>
 
-✦ CONTRIBUTION ACTIVITY ✦
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D6VAlex&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-✦ THANKS FOR VISITING ✦
+< THANKS FOR VISITING >
 
 Keep learning. Keep building. Keep improving.
 
