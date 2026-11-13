@@ -57,12 +57,11 @@ I enjoy learning new technologies and continuously improving my development skil
 
 <strong>GITHUB STATISTICS</strong>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=D6VAlex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D6VAlex&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=D6VAlex&theme=tokyonight&hide_border=true" width="75%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=D6VAlex&theme=tokyonight&hide_border=true" width="75%"/>
 
