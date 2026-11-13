@@ -5,18 +5,14 @@ Welcome to my GitHub profile
 
 Building things, exploring technology, and learning something new every day.
 
-<p>
 <a href="https://myworld-myprojects.pages.dev/">
-<img src="https://img.shields.io/badge/MY%20WEBSITE-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/WEBSITE-Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://discord.com/users/1547644263515295936">
 <img src="https://img.shields.io/badge/DISCORD-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-</p>
 
-⸻
-
-About Me
+✦ ABOUT ME ✦
 
 I’m D6VAlex.
 
@@ -24,36 +20,39 @@ I’m passionate about programming, software development, technology, and buildi
 
 I enjoy learning new technologies and continuously improving my development skills.
 
-⸻
+<br/>
 
-Technologies & Languages
+✦ TECHNOLOGIES & LANGUAGES ✦
 
 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,swift,cpp,cs,php,rust&perline=9" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 
 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-⸻
+✦ GITHUB STATISTICS ✦
 
-GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=D6VAlex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D6VAlex&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=D6VAlex&theme=tokyonight&hide_border=true" width="75%"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=D6VAlex&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D6VAlex&layout=compact&theme=tokyonight&hide_border=true"/>
-<br/>
-<img width="65%" src="https://streak-stats.demolab.com?user=D6VAlex&theme=tokyonight&hide_border=true"/>
+✦ CONTRIBUTION ACTIVITY ✦
 
-⸻
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D6VAlex&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=D6VAlex&theme=tokyo-night&hide_border=true&area=true"/>
-
-⸻
-
-Thanks for visiting!
+✦ THANKS FOR VISITING ✦
 
 Keep learning. Keep building. Keep improving.
 
